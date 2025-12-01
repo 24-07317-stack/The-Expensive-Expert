@@ -3,7 +3,8 @@
 # The Expensive Expert
 
 **The Expensive Expert**  
-is a simple Java console application for tracking incomes and expenses. This project demonstrates **Object-Oriented Programming (OOP)** principles: **Encapsulation, Inheritance, Abstraction, and Polymorphism**.  
+is a simple Java console application for tracking incomes and expenses. This project demonstrates **Object-Oriented Programming (OOP)** principles: **Encapsulation, Inheritance, Abstraction, and Polymorphism**.
+
 
 </div>
 
