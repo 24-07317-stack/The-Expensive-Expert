@@ -135,7 +135,7 @@ Savings: PHP 2700
 
 <div align="center">
 
-## Authors (Alphabetical by Last Name)
+## Authors
 
 * Justine Ciara Bendong
 * John Patrick Bariata
